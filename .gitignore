@@ -1,0 +1,10 @@
+.gitignore << EOF
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.vspscc
+*.vssscc
+EOF
